@@ -1,2 +1,0 @@
-# ThemeContext
-Created with CodeSandbox
